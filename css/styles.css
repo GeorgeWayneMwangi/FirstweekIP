@@ -47,6 +47,7 @@ h2 {
   padding: 5px;
   margin: auto;
   background-color: #D35400;
+  float: right;
 
 
 
@@ -57,19 +58,41 @@ img {
 }
 .uzito2 {
   color: black;
-  width: 30%;
+  width: auto;
   float: right;
   border: 2px black;
   padding: 5px;
   margin: auto;
-  background-color: yellowgreen;
+  background-color: yellow;
+
 }
 .hobbies {
+  color: black;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: blue;
   float: left;
 }
 .projects {
+  color: black;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: yellow;
   float: left;
 }
-.final {
+.final {  color: black;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: red;
   float: left;
+  text-align: center;
 }
