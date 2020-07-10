@@ -49,7 +49,18 @@ h2 {
   background-color: #D35400;
 
 
+
+
 }
 img {
   float: left;
+}
+.uzito2 {
+  color: black;
+  width: 30%;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: yellowgreen;
 }
