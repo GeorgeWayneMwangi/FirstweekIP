@@ -1,7 +1,14 @@
-h1 {
+.heading1 {
   text-align: center;
   text-decoration: underline;
   font-family: fantasy;
   font: Jazz LET;
   color: white;
+}
+body {
+  background-color: #659DBD;
+  text-align: justify;
+  text-size: 20px;
+  font-family: cursive;
+  font: Comic Sans MS;
 }
