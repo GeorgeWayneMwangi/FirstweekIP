@@ -86,13 +86,8 @@ img {
   background-color: yellow;
   float: left;
 }
-.final {  color: black;
-  width: auto;
-  float: right;
-  border: 2px black;
-  padding: 5px;
-  margin: auto;
-  background-color: red;
-  float: left;
+.final {
+  color: black;
+  background-color: #A3E4D7;
   text-align: center;
 }
