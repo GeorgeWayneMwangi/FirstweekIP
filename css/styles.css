@@ -53,8 +53,8 @@ h2 {
 
 
 }
-img {
-  float: right;
+.image1 {
+  float: left;
 }
 .uzito2 {
   color: grey;
@@ -65,7 +65,7 @@ img {
   margin: auto;
   background-color: yellow;
 }
-img.uzito2 {
+.image3 {
   float: right;
 
 }
@@ -93,4 +93,7 @@ img.uzito2 {
   color: black;
   background-color: #A3E4D7;
   text-align: center;
+}
+.image2 {
+  float: left;
 }
