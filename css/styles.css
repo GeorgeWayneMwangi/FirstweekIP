@@ -64,3 +64,6 @@ img {
   margin: auto;
   background-color: yellowgreen;
 }
+.hobbies {
+  float: left;
+}
