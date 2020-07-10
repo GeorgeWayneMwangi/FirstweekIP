@@ -54,6 +54,9 @@ h2 {
   margin: auto;
   background-color: #D35400;
   float: right;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
 
 
 
@@ -70,6 +73,10 @@ h2 {
   padding: 5px;
   margin: auto;
   background-color: yellow;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
 }
 .image3 {
   float: right;
@@ -84,6 +91,10 @@ h2 {
   margin: auto;
   background-color: blue;
   float: left;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
 }
 .projects {
   color: #154360;
@@ -94,11 +105,20 @@ h2 {
   margin: auto;
   background-color: yellow;
   float: left;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+
 }
 .final {
   color: black;
   background-color: #A3E4D7;
   text-align: center;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
 }
 .image2 {
   float: left;
