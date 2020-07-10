@@ -40,7 +40,7 @@ h2 {
   font-size: 40px
 }
 .me {
-  color: black;
+  color: white;
   width: auto;
   float: right;
   border: 2px black;
@@ -54,20 +54,23 @@ h2 {
 
 }
 img {
-  float: left;
+  float: right;
 }
 .uzito2 {
-  color: black;
+  color: grey;
   width: auto;
   float: right;
   border: 2px black;
   padding: 5px;
   margin: auto;
   background-color: yellow;
+}
+img.uzito2 {
+  float: right;
 
 }
 .hobbies {
-  color: black;
+  color: #F7DC6F;
   width: auto;
   float: right;
   border: 2px black;
@@ -77,7 +80,7 @@ img {
   float: left;
 }
 .projects {
-  color: black;
+  color: #154360;
   width: auto;
   float: right;
   border: 2px black;
