@@ -3,6 +3,7 @@ This is a repository for the landing page of my programming portfolio.(class pro
 # Programming portfolio
 #### This is the landing page of my programming portfolio created using HTML and CSS as a class project.It is meant to test my understanding of the things I have learned regarding HTML and CSS. 
 #### By George Wayne Mwangi
+DEMO:https://georgewaynemwangi.github.io/
 ## Description
 This Independent Project is meant to test my understanding of the concepts I have so far learnt in HTML and CSS. Using the following tools:Git,Atom and by following the course work detailing how to create webpages using the concepts of forking,indentation and spacing,branching,styling,floats e.t.c.,the landing page is meant to test my usage of these concepts under the following guidelines:
 
